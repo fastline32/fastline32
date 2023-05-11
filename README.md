@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Svetoslav Savov
 - 👀 I’m interested in C#,Angular, Linux Administration, Networks and more. 
-- 🌱 I’m currently learning C# EFCore in Software University.
+- 🌱 I’m currently learning JS Front-End in Software University.
 - 🥇 Successfuly complited courses with certificates:
 - 📫 How to reach me ... LinkedIn - https://www.linkedin.com/in/svetoslav-savov-01556b66/
 
